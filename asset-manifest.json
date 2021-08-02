@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Ahmad-Kanj/Frontend-Mentor-Sunnyside-agency-landing-page/static/css/main.36c7ad49.chunk.css",
-    "main.js": "/Ahmad-Kanj/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/main.edffaffb.chunk.js",
-    "main.js.map": "/Ahmad-Kanj/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/main.edffaffb.chunk.js.map",
-    "runtime-main.js": "/Ahmad-Kanj/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/runtime-main.dff30b94.js",
-    "runtime-main.js.map": "/Ahmad-Kanj/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/runtime-main.dff30b94.js.map",
-    "static/js/2.701443e3.chunk.js": "/Ahmad-Kanj/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/2.701443e3.chunk.js",
-    "static/js/2.701443e3.chunk.js.map": "/Ahmad-Kanj/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/2.701443e3.chunk.js.map",
-    "static/js/3.0a1a5986.chunk.js": "/Ahmad-Kanj/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/3.0a1a5986.chunk.js",
-    "static/js/3.0a1a5986.chunk.js.map": "/Ahmad-Kanj/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/3.0a1a5986.chunk.js.map",
-    "index.html": "/Ahmad-Kanj/Frontend-Mentor-Sunnyside-agency-landing-page/index.html",
-    "static/css/main.36c7ad49.chunk.css.map": "/Ahmad-Kanj/Frontend-Mentor-Sunnyside-agency-landing-page/static/css/main.36c7ad49.chunk.css.map",
-    "static/js/2.701443e3.chunk.js.LICENSE.txt": "/Ahmad-Kanj/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/2.701443e3.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Ahmad-Kanj/Frontend-Mentor-Sunnyside-agency-landing-page/static/media/image-photography.26df83b3.jpg"
+    "main.css": "/Frontend-Mentor-Sunnyside-agency-landing-page/static/css/main.276f810c.chunk.css",
+    "main.js": "/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/main.edffaffb.chunk.js",
+    "main.js.map": "/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/main.edffaffb.chunk.js.map",
+    "runtime-main.js": "/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/runtime-main.c03824d6.js",
+    "runtime-main.js.map": "/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/runtime-main.c03824d6.js.map",
+    "static/js/2.701443e3.chunk.js": "/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/2.701443e3.chunk.js",
+    "static/js/2.701443e3.chunk.js.map": "/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/2.701443e3.chunk.js.map",
+    "static/js/3.0a1a5986.chunk.js": "/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/3.0a1a5986.chunk.js",
+    "static/js/3.0a1a5986.chunk.js.map": "/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/3.0a1a5986.chunk.js.map",
+    "index.html": "/Frontend-Mentor-Sunnyside-agency-landing-page/index.html",
+    "static/css/main.276f810c.chunk.css.map": "/Frontend-Mentor-Sunnyside-agency-landing-page/static/css/main.276f810c.chunk.css.map",
+    "static/js/2.701443e3.chunk.js.LICENSE.txt": "/Frontend-Mentor-Sunnyside-agency-landing-page/static/js/2.701443e3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Frontend-Mentor-Sunnyside-agency-landing-page/static/media/image-photography.26df83b3.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dff30b94.js",
+    "static/js/runtime-main.c03824d6.js",
     "static/js/2.701443e3.chunk.js",
-    "static/css/main.36c7ad49.chunk.css",
+    "static/css/main.276f810c.chunk.css",
     "static/js/main.edffaffb.chunk.js"
   ]
 }
