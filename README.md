@@ -1,7 +1,5 @@
 # Frontend Mentor - Sunnyside agency landing page
 
-# Frontend Mentor - Tip calculator app
-
 ## Table of contents
 
 - [Overview](#overview)
